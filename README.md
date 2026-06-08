@@ -46,7 +46,19 @@ Recent CS graduate working across full-stack, AI/ML, and DevOps. I build end-to-
 
 ### GitHub Stats
 
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsingh31&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Profile views](https://komarev.com/ghpvc/?username=rpsingh31&style=flat&color=grey)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/rpsingh31?style=flat&color=grey)
+
+<!--
+  Stats cards via github-readme-stats can be self-hosted for reliability.
+  To use them without downtime, deploy your own instance:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  
+  Or use the streak stats below (more reliable third-party):
+-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rpsingh31&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 

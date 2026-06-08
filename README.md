@@ -1,10 +1,10 @@
 <div align="left">
 
 ```
-Rudra Pratap Singh
+rpsingh31
 ```
 
-Recent CS graduate. Building across full-stack, AI/ML, and DevOps.
+Recent Mathematics and Computing graduate. Building across full-stack, AI/ML, and DevOps.
 Interested in systems that ship — from data pipelines to deployed products.
 
 ---

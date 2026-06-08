@@ -44,11 +44,13 @@ Interested in systems that ship — from data pipelines to deployed products.
 
 ### `activity`
 
+<div align="center">
+
 ![Profile views](https://komarev.com/ghpvc/?username=rpsingh31&style=flat&color=grey)
-&nbsp;
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rpsingh31&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
----
+</div>
 
 `// open to interesting problems · reach out via github issues or discussions`
 

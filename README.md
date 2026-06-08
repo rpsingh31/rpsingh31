@@ -1,10 +1,10 @@
 <div align="left">
 
 ```
-rpsingh31
+Rudra Pratap Singh
 ```
 
-Recent Mathematics and Computing graduate. Building across full-stack, AI/ML, and DevOps.
+Recent CS graduate. Building across full-stack, AI/ML, and DevOps.
 Interested in systems that ship — from data pipelines to deployed products.
 
 ---
@@ -32,25 +32,22 @@ Interested in systems that ship — from data pipelines to deployed products.
 
 ### `projects`
 
-> *Updating soon — better projects in progress.*
-
 | name | description | stack |
 |---|---|---|
-| [laptop-rec](https://github.com/rpsingh31/Laptop-Recommendation-System) | ML-based laptop recommendation via web scraping + sentiment analysis | Python · Selenium · scikit-learn |
-| [library-api](https://github.com/rpsingh31/Library-Management-System) | REST API with auth middleware, MVC architecture, full CRUD | Node.js · Express · MongoDB |
-| [gen-ai-vlg](https://github.com/rpsingh31/VLG-Project-Generative-AI) | Generative AI experiments and model exploration | Python · Jupyter |
+| [TruckNet](https://github.com/rpsingh31/TruckNet) | Logistics bidding platform — truckers bid on loads in real time via WebSockets, customers track delivery status · deployed | Next.js · WebSocket · MongoDB |
+| [Restaurant-RAG](https://github.com/rpsingh31/Restaurant-RAG) | RAG chatbot over Zomato restaurant data — scrape → FAISS vectorstore → LangChain Q&A · Streamlit UI | Python · LangChain · FAISS · Streamlit |
+| [LangChain-Email-Generator](https://github.com/rpsingh31/LangChain-Email-Generator) | AI-powered email generator with auth, email history, and HuggingFace LLM · deployed | Next.js · MongoDB · LangChain · HuggingFace |
+| [vidtube](https://github.com/rpsingh31/vidtube) | Production-grade YouTube backend — video/image upload, auth, likes, comments, subscriptions | Node.js · Express · MongoDB · Cloudinary |
 
 ---
 
 ### `activity`
 
-<div align="center">
-
 ![Profile views](https://komarev.com/ghpvc/?username=rpsingh31&style=flat&color=grey)
-
+&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=rpsingh31&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-</div>
+---
 
 `// open to interesting problems · reach out via github issues or discussions`
 
